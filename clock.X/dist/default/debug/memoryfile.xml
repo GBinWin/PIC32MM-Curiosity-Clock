@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/clock.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>66704</length>                 
+      <used>24544</used>                     
+      <free>42160</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>8704</length>                 
+      <used>3368</used>                     
+      <free>5336</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
